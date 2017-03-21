@@ -20,7 +20,8 @@
     "default_popup": "popup/index.html"
   },
   "background": {
-    "page": "background/index.html"
+    "page": "background/index.html",
+    "persistent": true
   },
   "options_page": "options/index.html",
   "content_scripts": [
